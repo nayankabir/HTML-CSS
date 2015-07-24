@@ -1,0 +1,13 @@
+﻿.NormalFont {
+	text-decoration: none;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: medium;
+	font-style: normal;
+	font-variant: normal;
+}
+.Background {
+	background-color: #D6F3FE;
+}
+.NoBorders {
+	border-style: none;
+}

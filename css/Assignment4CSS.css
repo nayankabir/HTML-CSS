@@ -1,0 +1,34 @@
+@charset "utf-8";
+.32 {
+	font-size: 16px;
+}
+
+@media screen{
+.Subheadings {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+.footerassignment {
+}
+
+
+}
+.footerp {
+	text-align: center;
+	font-size: 16px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+.assgnment4title {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+.assign4subtitle {
+	text-align: center;
+	font-weight: bold;
+}
+.assignimg {
+}
