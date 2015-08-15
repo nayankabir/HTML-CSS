@@ -1,0 +1,11 @@
+@charset "utf-8";
+.thumbnail {
+}
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Oswald);
+body { 
+    background: #00ff00 url("http://www.blueshift7.com/files/images/background/light_green_paint_background-other.jpg") no-repeat fixed center; 
+	
+	
+	font-size:140%;
+	font-family: 'Oswald', sans-serif;
+}

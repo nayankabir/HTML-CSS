@@ -1,0 +1,21 @@
+﻿/* place your custom styles here */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+li {
+    font-family: 'Open Sans', sans-serif;
+}
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#picture1 { position:relative; top: -200px; left:600px}
+#picture2 { position:relative; top: -180px; left:600px}
+#picture3 { position:relative; top: -160px; left:600px}
+
+#forms1 { position:relative; top: -180px; left:600px}
+#forms2 { position:relative; top: -160px; left:600px}
+#forms3 { position:relative; top: -140px; left:600px}
+#forms4 { position:relative; top: -120px; left:600px}
+#submit { position:relative; top: -100px; left:600px}
